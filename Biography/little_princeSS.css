@@ -1,0 +1,11 @@
+div{
+    width: 350px;
+}
+.group1{text-decoration: underline}
+
+.group2{background: orange}
+
+.group3{
+    color: red;
+    font-weight: bold;
+}
